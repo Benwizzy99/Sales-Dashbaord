@@ -26,9 +26,13 @@
 
 
 
-
-
 <img width="1784" height="947" alt="Screenshot 2025-08-29 183731" src="https://github.com/user-attachments/assets/8c7c057d-32e9-4e67-8507-c4c2f8613ddd" />
 
 
 <img width="1851" height="973" alt="Screenshot 2025-08-29 183750" src="https://github.com/user-attachments/assets/ebe7a7d7-db2f-4082-82e0-9eb7b40a45af" />
+<img width="1230" height="704" alt="Screenshot of sales analys p3" src="https://github.com/user-attachments/assets/6909c677-efa4-4ed8-b06c-7110e50fc11b" />
+
+<img width="1240" height="691" alt="Screenshot of sales analys p2" src="https://github.com/user-attachments/assets/08d7a2a3-fe5a-44b5-900e-8dd42cccbfa0" />
+
+
+
